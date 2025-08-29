@@ -38,7 +38,8 @@ Hello! I'm Alex, a passionate Fullstack Developer focused on modern web technolo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexh7799&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexh7799&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alexh7799&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Current Projects
@@ -46,16 +47,10 @@ Hello! I'm Alex, a passionate Fullstack Developer focused on modern web technolo
 - 🌐 Developing a modern Fullstack 3D shop web application with React and Django
 - 📱 Progressive Web App (PWA) for optimal mobile experience
 
-## 📫 Contact">
+## 📫 Contact
 
 <div align="center">
   <a href="https://github.com/alexh7799">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexander-hoerst">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:info@alexander-hörst.de">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
