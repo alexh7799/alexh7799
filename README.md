@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm Alex, a passionate Fullstack Developer focused on modern web technologies and software engineering. I love finding creative solutions and continuously learning new technologies.
+Hello! I'm Alexander, a passionate Fullstack Developer focused on modern web technologies and software engineering. I love finding creative solutions and continuously learning new technologies.
 
 ## 🛠️ My Skills
 
