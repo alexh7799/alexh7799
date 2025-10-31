@@ -52,7 +52,7 @@ Hello! I'm Alexander, a passionate Fullstack Developer focused on modern web tec
   <a href="https://github.com/alexh7799">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/alexander-hoerst/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/in/alexander-hoerst">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
