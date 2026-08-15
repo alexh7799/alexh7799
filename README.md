@@ -14,7 +14,7 @@ Hello! I'm Alexander, a passionate Fullstack Developer focused on modern web tec
 
 ### Programming Languages
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,rust,c,c++&theme=dark&perline=4" alt="JavaScript, TypeScript, Python, Rust, C, C++" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,rust,c,cplusplus&theme=dark&perline=4" alt="JavaScript, TypeScript, Python, Rust, C, C++" /></a>
 </p>
 
 ### Frontend Development
