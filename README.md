@@ -14,22 +14,22 @@ Hello! I'm Alexander, a passionate Fullstack Developer focused on modern web tec
 
 ### Programming Languages
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,rust,c,cplusplus&theme=dark&perline=4" alt="JavaScript, TypeScript, Python, Rust, C, C++" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,rust,c,cpp,cs&theme=dark&perline=4" alt="JavaScript, TypeScript, Python, Rust, C, C++, C#" /></a>
 </p>
 
 ### Frontend Development
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,angular,html,css,scss,tailwind,bootstrap&theme=dark&perline=4" alt="React, Angular, HTML, CSS, SCSS, Tailwind, Bootstrap" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,angular,html,css,scss,tailwind,bootstrap,threejs&theme=dark&perline=4" alt="React, Angular, HTML, CSS, SCSS, Tailwind, Bootstrap, Three.js" /></a>
 </p>
 
 ### Backend Development
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark&perline=4" alt="Node.js, Express, Django" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,django,electron,nestjs,tauri,nginx&theme=dark&perline=4" alt="Node.js, Express, Django, Electron, Nest.js, Tauri, Nginx" /></a>
 </p>
 
 ### Databases & Tools
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,github&theme=dark&perline=4" alt="PostgreSQL, MySQL, Redis, Docker, Git, GitHub" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode,postgres,mysql,redis,docker,git,github,md,raspberrypi,sentry,ubuntu&theme=dark&perline=4" alt="VS Code,PostgreSQL, MySQL, Redis, Docker, Git, GitHub, Markdown, Raspberry Pi, Sentry, Ubuntu" /></a>
 </p>
 
 </div>
