@@ -1,7 +1,7 @@
 # Welcome to my Repository 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Development;Software+Engineering;Creative+Problem+Solving&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Development;Software+Engineering;Embedded;Creative+Problem+Solving&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
 ## 🧑‍💻 About Me
@@ -14,7 +14,7 @@ Hello! I'm Alexander, a passionate Fullstack Developer focused on modern web tec
 
 ### Programming Languages
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark&perline=4" alt="JavaScript, TypeScript, Python" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark&perline=4" alt="JavaScript, TypeScript, Python, Rust, C, C++" /></a>
 </p>
 
 ### Frontend Development
@@ -36,8 +36,9 @@ Hello! I'm Alexander, a passionate Fullstack Developer focused on modern web tec
 
 ## 🚀 Current Projects
 
-- 🌐 Developing a modern Fullstack 3D shop web application with React and Django
+- 🌐 Developing a modern Fullstack 3D web application with React and Django
 - 📱 Progressive Web App (PWA) for optimal mobile experience
+- 🖥️ Embedded Microcontroller and self created PCBs
 
 ## 📫 Contact
 
